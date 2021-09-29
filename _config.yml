@@ -1,0 +1,12 @@
+#theme: jekyll-theme-minimal
+name: darbs.dev
+title: null
+plugins:
+  - jekyll-relative-links
+  - jekyll-feed
+  - jemoji
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
