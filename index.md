@@ -2,7 +2,7 @@
 <div id="nav">
   <ul>
     <li>
-      About
+      <a href="/about">About</a>
     </li>
   </ul>
 </div>
