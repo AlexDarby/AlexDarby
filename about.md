@@ -2,3 +2,5 @@
 ## About
 
 Something about.
+
+{% include footer.md %}
