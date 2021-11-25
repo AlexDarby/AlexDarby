@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+.markdown-body {
+  font-family: 'VT323', monospace;
+}
+
+.markdown-body h2 {
+  padding-top: 2em;
+}
