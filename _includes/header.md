@@ -16,7 +16,7 @@
       <a href="https://twitter.com/alex_darby"><i class="fa-brands fa-twitter-square"></i></a>
     </li>
     <li>
-      <a href="/about">About</a>
+      <a href="https://github.com/AlexDarby"><i class="fab fa-github"></i></a>
     </li>
   </ul>
 </div>
