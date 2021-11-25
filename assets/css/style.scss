@@ -4,10 +4,20 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
+* {
+ background: black; 
+}
+
 .markdown-body {
   font-family: 'VT323', monospace;
+  color: lightgreen;
+  
 }
 
 .markdown-body h2 {
   padding-top: 2em;
+}
+
+hr {
+  border-top: 2px dashed lightgreen;
 }
