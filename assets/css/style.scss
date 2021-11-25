@@ -12,6 +12,16 @@ body {
  background-color: black;
 }
 
+#nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#nav li {
+ display: inline;
+}
+
 .markdown-body {
   font-family: 'VT323', monospace;
   color: lightgreen;
