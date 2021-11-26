@@ -24,13 +24,18 @@ body {
   padding: 0;
 }
 
-#nav li {
- display: inline;
-}
+    #nav li {
+    display: inline;
+    }
 
 #links {
+  list-style-type: none;
   text-align: right;
 }
+
+    #links li {
+      display: inline;
+    }
 
 a {
   color: lightpink;
@@ -63,10 +68,9 @@ hr {
 
 
 /* TYPING ANIMATION */
-
+/*
 .wrapper {
   height: 100vh;
-  /*This part is important for centering*/
   display: flex;
   align-items: center;
   justify-content: center;
@@ -93,3 +97,5 @@ hr {
     border-color: transparent
   }
 }
+
+*/

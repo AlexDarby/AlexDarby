@@ -1,11 +1,11 @@
 {% include header.md %}
-
+<!--->
 <div class="wrapper">
     <div class="typing">
       Alex Darby
     </div>
 </div>
-
+</--->
 ## 2021-09-24
 ### Starting over. :zap:
 
