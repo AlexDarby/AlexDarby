@@ -20,5 +20,6 @@
     </li>
     <li>
         <a href="https://instagram.com/alex.darby"><i class="fab fa-instagram-square"></i></a>
+    </li>
   </ul>
 </div>
