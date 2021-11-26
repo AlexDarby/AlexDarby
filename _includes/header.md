@@ -1,15 +1,4 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-# darbs.dev
-<div id="nav">
-  <ul>
-    <li>
-      <a href="/posts">Posts</a>
-    </li>
-    <li>
-      <a href="/">About</a>
-    </li>
-  </ul>
-</div>
 <div id="links">
   <ul>
     <li>
@@ -20,6 +9,17 @@
     </li>
     <li>
         <a href="https://instagram.com/alex.darby"><i class="fab fa-instagram-square"></i></a>
+    </li>
+  </ul>
+</div>
+# darbs.dev
+<div id="nav">
+  <ul>
+    <li>
+      <a href="/posts">Posts</a>
+    </li>
+    <li>
+      <a href="/">About</a>
     </li>
   </ul>
 </div>
