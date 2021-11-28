@@ -71,6 +71,10 @@ a:hover {
 }
 
 
+.markdown-body pre {
+  background: darkgreen;
+}
+
 /* BLINKING ANIMATION */
 .blinking {
   animation: blinking 1s linear infinite;
