@@ -1,13 +1,4 @@
-<div id="header_list">
-<ul>
-    <li>
-      <h1 id="main_title">Alex Darby</h1>
-    </li>
-<!--    <li>
-      <h1 class="blinking">|</h1>
-    </li> -->
-</ul>
-</div>
+# Alex Darby
 
 <div id="nav">
   <ul>
