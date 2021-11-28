@@ -6,6 +6,7 @@
 
 * {
  background: black; 
+ font-size: 1.25em;
 }
 
 body {
@@ -75,10 +76,12 @@ a:hover {
 }
 
 .markdown-body h1 {
+  font-size: 3em;
  border-bottom: 2px dashed lightgreen;
 }
 
 .markdown-body h2 {
+  font-size: 2em;
   border-bottom: 2px dashed lightgreen;
 }
 
