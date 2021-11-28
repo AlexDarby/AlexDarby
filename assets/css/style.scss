@@ -68,44 +68,23 @@ hr {
 }
 
 
-/* TYPING ANIMATION */
-/*
-
-<!--->
-<div class="wrapper">
-    <div class="typing">
-      Alex Darby
-    </div>
-</div>
-</--->
-
-.wrapper {
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+/* BLINKING ANIMATION */
+.blinking {
+  width: 50px;
+  height: 100px;
+  background-color: lightgreen;
+  -webkit-animation: blinking 2s infinite;
+  animation: blinking 2s infinite;
 }
 
-.typing {
-  width: 22ch;
-  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 3px solid;
-  font-family: monospace;
-  font-size: 2em;
-}
-
-@keyframes typing {
-  from {
-    width: 0
+@keyframes blinking {
+  0% {
+      background-color: transparent;
   }
-}
-    
-@keyframes blink {
+  49% {
+      background-color: transparent
+  }
   50% {
-    border-color: transparent
+      background-color: lightgreen;
   }
 }
-
-*/

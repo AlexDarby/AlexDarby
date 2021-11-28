@@ -12,7 +12,7 @@
     </li>
   </ul>
 </div>
-# Alex Darby
+# Alex Darby<div class="blinking"></div>
 <div id="nav">
   <ul>
     <li>
