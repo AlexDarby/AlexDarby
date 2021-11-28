@@ -3,9 +3,9 @@
     <li>
       <h1 id="main_title">Alex Darby</h1>
     </li>
-    <li>
+<!--    <li>
       <h1 class="blinking">|</h1>
-    </li>
+    </li> -->
 </ul>
 </div>
 
