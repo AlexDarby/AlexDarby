@@ -12,6 +12,10 @@ body {
  background-color: black;
 }
 
+#main_title {
+  text-decoration: none;
+}
+
 #darbsdev {
   text-align: center;
   font-size: xxx-large;
@@ -70,8 +74,6 @@ hr {
 
 /* BLINKING ANIMATION */
 .blinking {
-  width: 50px;
-  height: 100px;
   background-color: lightgreen;
   -webkit-animation: blinking 2s infinite;
   animation: blinking 2s infinite;

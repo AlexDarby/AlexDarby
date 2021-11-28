@@ -12,7 +12,7 @@
     </li>
   </ul>
 </div>
-<h1>Alex Darby</h1><div class="blinking"></div>
+<h1 id="main_title">Alex Darby</h1><div class="blinking">|</div>
 <div id="nav">
   <ul>
     <li>
