@@ -21,6 +21,17 @@ body {
   font-size: xxx-large;
 }
 
+#header_list ul {
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+}
+
+    #header_list li {
+    display: inline;
+    margin: 0;
+    }
+
 #nav ul {
   list-style-type: none;
   text-align: center;
