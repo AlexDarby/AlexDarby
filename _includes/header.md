@@ -12,7 +12,8 @@
     </li>
   </ul>
 </div>
-# Alex Darby ## DevOps, Engineering, etc.
+# Alex Darby 
+## DevOps, Engineering, etc.
 <div id="nav">
   <ul>
     <li>
