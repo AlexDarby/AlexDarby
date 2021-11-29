@@ -8,7 +8,7 @@ permalink: /posts/
 
 # Posts
 
-  {% for post in site.posts %}
+{% for post in site.posts %}
   <article>
     <h2>
       <a href="{{ post.url }}">
