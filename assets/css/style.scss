@@ -4,6 +4,11 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap');
 
+@font-face {
+  font-family: "Source";
+  src: url("../assets/fonts/SourceCodePro-Light.otf");
+}
+
 * {
  background: black; 
 }
@@ -57,7 +62,7 @@ a:hover {
 }
 
 .markdown-body {
-  font-family: 'Press Start 2P', cursive;
+  font-family: 'Source';
   color: lightgreen;
   
 }
