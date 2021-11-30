@@ -2,12 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap');
-
-@font-face {
-  font-family: "Source";
-  src: url("../assets/fonts/SourceCodePro-Light.ttf");
-}
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap');
 
 * {
  background: black; 
@@ -62,7 +57,7 @@ a:hover {
 }
 
 .markdown-body {
-  font-family: 'Source';
+  font-family: 'Source Code Pro', monospace;
   color: lightgreen;
   
 }
