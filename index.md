@@ -1,18 +1,20 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
+
 {% include header.md %}
 
 <div id="links">
   <ul>
     <li>
-      <a href="https://twitter.com/alex_darby">Twitter</a>
+      <a href="https://twitter.com/alex_darby"><i class="fab fa-twitter-square"></i></a>
     </li>
     <li>
-      <a href="https://github.com/AlexDarby">GitHub</a>
+      <a href="https://github.com/AlexDarby"><i class="fab fa-github-square"></i></a>
     </li>
     <li>
-        <a href="https://instagram.com/alex.darby">Instagram</a>
+        <a href="https://instagram.com/alex.darby"><i class="fab fa-instagram-square"></i></a>
     </li>
     <li>
-        <a href="https://www.linkedin.com/in/alex-darby/">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/alex-darby/"><i class="fab fa-linkedin"></i></a>
     </li>
   </ul>
 </div>
